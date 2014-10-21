@@ -23,11 +23,12 @@ Install it with pip (or easy_install)::
 
 	pip install MetaLocGramN
 
+The cmd will get <https://pypi.python.org/pypi/MetaLocGramN/>.
 How to start?
 ==================================================
 If you are really lazy try:
        
-        $ ipython
+    $ ipython
         
 	In [1]: from MetaLocGramN import *
 	In [2]: run_example()
