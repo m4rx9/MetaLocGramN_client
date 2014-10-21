@@ -77,16 +77,16 @@ if __name__ == "__main__":
 You should get something like:
 
 ```bash
-	python test.py
-	# job_id: K6Q10Q
-	# status: queue
-	# status: queue
-	# status: primary prediction::in progress
-	# status: primary prediction::in progress
-	# status: primary prediction::done
-	# status: done
-	extracellular,47.541,0.0,0.0,0.0,52.459,
-	primary methods: CELLO,cytoplasmic,0.6138,0.036,0.1346,0.0612,0.1546,PSLpred,extracellular,0.2,0.531,PSORTb3,unknown,0.2,0.2,0.2,0.2,0.2,SosuiGramN,cytoplasmic
+python test.py
+# job_id: K6Q10Q
+# status: queue
+# status: queue
+# status: primary prediction::in progress
+# status: primary prediction::in progress
+# status: primary prediction::done
+# status: done
+extracellular,47.541,0.0,0.0,0.0,52.459,
+primary methods: CELLO,cytoplasmic,0.6138,0.036,0.1346,0.0612,0.1546,PSLpred,extracellular,0.2,0.531,PSORTb3,unknown,0.2,0.2,0.2,0.2,0.2,SosuiGramN,cytoplasmic
 ```
 	
 Authors
