@@ -11,6 +11,11 @@ The MetaLocGramN is a gateway to a number of primary prediction methods (various
 
 The MetaLocGramN integrates the primary methods and based on their outputs provides overall consensus prediction. 
 
+
+Build Status
+============
+[![Build Status](https://travis-ci.org/m4rx9/MetaLocGramN_client.svg?branch=master)](https://travis-ci.org/m4rx9/MetaLocGramN_client)
+
 Requirements
 ============
 
@@ -25,9 +30,6 @@ Install it with pip (or easy_install)::
 	pip install MetaLocGramN
 
 The cmd will get <https://pypi.python.org/pypi/MetaLocGramN/>.
-Build Status
-============
-[![Build Status](https://travis-ci.org/m4rx9/MetaLocGramN_client.svg?branch=master)](https://travis-ci.org/m4rx9/MetaLocGramN_client)
 How to start?
 ==================================================
 If you are really lazy try:
