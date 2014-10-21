@@ -16,6 +16,7 @@ Requirements
 
 * suds = 0.4
 
+
 Installation
 ============
 
@@ -24,6 +25,9 @@ Install it with pip (or easy_install)::
 	pip install MetaLocGramN
 
 The cmd will get <https://pypi.python.org/pypi/MetaLocGramN/>.
+Build Status
+============
+[![Build Status](https://travis-ci.org/m4rx9/MetaLocGramN_client.svg?branch=master)](https://travis-ci.org/m4rx9/MetaLocGramN_client)
 How to start?
 ==================================================
 If you are really lazy try:
