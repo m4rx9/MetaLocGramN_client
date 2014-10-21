@@ -28,25 +28,25 @@ How to start?
 ==================================================
 If you are really lazy try:
        
-    ```ipython
-	$ ipython
+```ipython
+$ ipython
         
-	In [1]: from MetaLocGramN import *
-	In [2]: run_example()
-	# job_id: 1X820N
-	# status: queue
-	# status: primary prediction::in progress
-	# status: primary prediction::in progress
-	# status: primary prediction::done
-	# status: consenus::done
-	# status: done
-	extracellular,47.541,0.0,0.0,0.0,52.459,
-	primary methods: CELLO,cytoplasmic,0.6138,0.036,0.1346,0.0612,0.1546,PSLpred,extracellular,0.2,0.531,PSORTb3,unknown,0.2,0.2,0.2,0.2,0.2,SosuiGramN,cytoplasmic
-	In [3]: run_example?
-	# to get help!
-	In [4]: run_example??
-	# to get even bigger help!
-	```
+In [1]: from MetaLocGramN import *
+In [2]: run_example()
+# job_id: 1X820N
+# status: queue
+# status: primary prediction::in progress
+# status: primary prediction::in progress
+# status: primary prediction::done
+# status: consenus::done
+# status: done
+extracellular,47.541,0.0,0.0,0.0,52.459,
+primary methods: CELLO,cytoplasmic,0.6138,0.036,0.1346,0.0612,0.1546,PSLpred,extracellular,0.2,0.531,PSORTb3,unknown,0.2,0.2,0.2,0.2,0.2,SosuiGramN,cytoplasmic
+In [3]: run_example?
+# to get help!
+In [4]: run_example??
+# to get even bigger help!
+```
 
 if you want to find out more, see test.py inside the pkg.
 
